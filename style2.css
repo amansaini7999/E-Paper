@@ -1,0 +1,32 @@
+body{
+  background: #eee;
+}
+
+.hed{
+  border: solid gray 1px;
+  width: 20%;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin: auto;
+  background: white;
+  padding: 50px;
+}
+
+.Q{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+#A{
+  margin-top: 5px;
+  height: 200px;
+  width: 1750px;
+  margin-left: 30px;
+}
+
+#btn{
+  color: #fff;
+  background: #337ab7;
+  padding: 5px;
+  margin-left: 48%;
+}
